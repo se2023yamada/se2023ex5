@@ -1,6 +1,7 @@
 #include <stab.h>
 
 int main(void) {
-  printf("hello world");
+  int i = 0;
+  printf("%d", i);
   return 0;
 }
